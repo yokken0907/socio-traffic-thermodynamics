@@ -1,6 +1,6 @@
-# Socio-Traffic Thermodynamics (STT) — Technical Visual Orientation
+# Socio-Traffic Thermodynamics — Technical Visual Orientation
 
-This folder contains a browser-only technical visual orientation page for the `STT` repository.
+This folder contains a browser-only technical visual orientation page for the `socio-traffic-thermodynamics` repository.
 
 Open:
 
@@ -10,26 +10,31 @@ docs/technical_visual_orientation/index.html
 
 ## Purpose
 
-This page gives technically interested first-time readers a compact visual map of the repository before they read the manuscript, source/configuration materials, claim-boundary documents, and supporting archive materials.
+This page gives technically interested first-time readers a compact, STT-specific visual map of the repository before they read the manuscript, figures, source materials, and claim-boundary documents.
 
 It summarizes:
 
-- the project mission variable,
-- the reduced-model or surrogate status,
-- structured-prior / constrained-evaluation logic,
-- uncertainty, stress, and tail-risk discipline where applicable,
+- the STT-specific mission variable,
+- reduced traffic-flow transition diagnosis,
+- free flow, near-capacity flow, stop-and-go waves, and dissipative congestion,
+- density/demand, response delay, interaction, noise, and lost-throughput channels,
+- non-equilibrium / thermodynamic analogy discipline,
 - evidence hierarchy,
 - repository reading order,
-- explicit non-claims.
+- explicit policy / city-control / universal-decongestion non-claims.
+
+All graph sections include replay controls so the reader can step through the visual logic interactively.
 
 ## Non-claims
 
 This page does not claim:
 
-- Universal decongestion method
-- City-scale traffic prediction claim
-- Traffic-signal control product
-- Transportation policy proof
-- Real-road validation
+- universal decongestion method,
+- city traffic-control software,
+- transport-policy validation,
+- calibrated road-network model,
+- operational signal-control recommendation,
+- social-system intervention manual,
+- municipal deployment readiness.
 
-It is an orientation aid only and must not be cited as numerical, experimental, clinical, industrial, or deployment evidence.
+It is an orientation aid only and must not be cited as numerical, policy, operational, social-system, or deployment evidence.

@@ -13,16 +13,6 @@ The paper proposes Socio-Traffic Thermodynamics (STT), a theoretical framework t
 
 The numerical component is intentionally narrow: a stochastic Optimal Velocity (OV) ring-road simulation showing spontaneous stop-and-go wave formation without a fixed bottleneck.
 
-## Technical Visual Orientation
-
-For technically interested first-time readers, this repository includes a browser-only technical visual orientation page:
-
-`docs/technical_visual_orientation/index.html`
-
-This page provides a structured overview of STT, including the project mission variable, reduced-model or surrogate status, structured-prior / constrained-evaluation logic, uncertainty and stress discipline where applicable, evidence hierarchy, recommended repository reading order, and the claim boundary.
-
-The page is intended only as an orientation aid. It does not execute simulations, does not validate the project, does not certify deployment readiness, and does not replace the manuscript, source/configuration materials, supporting archive materials, or independent expert review.
-
 ## Repository contents
 
 - `manuscript/socio_traffic_thermodynamics_2026.pdf` - manuscript PDF supplied for this public-gate archive.
@@ -36,6 +26,18 @@ The page is intended only as an orientation aid. It does not execute simulations
 - `FILE_MANIFEST.csv/json` - SHA-256 manifest excluding the manifest files themselves.
 
 The original uploaded ZIP contained a full Python virtual environment (`stt_env/`) with thousands of dependency files. That environment is intentionally excluded from this repository package. Dependencies are represented by `requirements.txt` instead.
+
+## Technical Visual Orientation
+
+For technically interested first-time readers, this repository includes a browser-only technical visual orientation page:
+
+`docs/technical_visual_orientation/index.html`
+
+This page provides an STT-specific overview of the Socio-Traffic Thermodynamics transition-diagnosis logic. In this repository, the mission variable is not city traffic-control performance, transport-policy success, or universal decongestion; it is reduced traffic-flow transition diagnosis, meaning that the surrogate distinguishes free flow, capacity-frontier operation, stop-and-go wave formation, dissipative congestion, and blackout-like flow collapse under density/demand, response-delay, interaction, and noise conditions.
+
+The page also summarizes reduced socio-traffic surrogate state channels, non-equilibrium / thermodynamic analogy discipline, regime classification, evidence hierarchy, repository reading order, and the claim boundary. All major visual sections include replay controls so that readers can step through the diagnostic logic rather than viewing a static template.
+
+The page is intended only as an orientation aid. It does not run traffic-control simulations, does not validate transportation policy, does not provide city-control software or signal-control guidance, does not establish universal decongestion, and does not replace the manuscript, source materials, figures, or independent expert review.
 
 ## Reproduction
 
