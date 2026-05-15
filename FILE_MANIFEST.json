@@ -1,0 +1,102 @@
+[
+  {
+    "path": ".gitignore",
+    "size_bytes": 222,
+    "sha256": "0f2d37d862a94852792e07a21da10ac2ff58df18df6c7a9167bb1cf1b59af62a"
+  },
+  {
+    "path": "AI_ASSISTANCE_DISCLOSURE.md",
+    "size_bytes": 557,
+    "sha256": "c6b59e64b18643474c783951f9e2c65dc911f1886a25b0f02947df0c270d9f89"
+  },
+  {
+    "path": "CLAIM_BOUNDARY.md",
+    "size_bytes": 1115,
+    "sha256": "3115362b57704d0b62969f612bf5a2180d148f17f8d7a1f93bdb5d8ee668887f"
+  },
+  {
+    "path": "LICENSE",
+    "size_bytes": 894,
+    "sha256": "7e5f0b625fd3ab556fd5f7f579f9083ac852dbf1f5fc10e471a7ebe86af19cab"
+  },
+  {
+    "path": "LICENSE_EVALUATION_ONLY.txt",
+    "size_bytes": 894,
+    "sha256": "7e5f0b625fd3ab556fd5f7f579f9083ac852dbf1f5fc10e471a7ebe86af19cab"
+  },
+  {
+    "path": "README.md",
+    "size_bytes": 3373,
+    "sha256": "c0d3f1332a424aa46b72bcaacecfbfd72e3e6fbe0ee700fe37c4e5fdae44e467"
+  },
+  {
+    "path": "README_ja.md",
+    "size_bytes": 2838,
+    "sha256": "8fee5301a04f8ff922af85820e21bb0c63b1fbceb730475aa912cde1251ede1a"
+  },
+  {
+    "path": "RELEASE_NOTES_v0.1.1_zenodo_safe_public_gate.md",
+    "size_bytes": 2018,
+    "sha256": "c1aa973b040dc970b0c4ac98fe33000a4cd00e3ccc6cc9c74aa882b037f9d460"
+  },
+  {
+    "path": "docs/JXIV_METADATA_PENDING.md",
+    "size_bytes": 313,
+    "sha256": "01e455ac7d170affb0893b8c8d2635d67a55f67af4c53ebf9e00587aa55fd90d"
+  },
+  {
+    "path": "docs/PROJECT_CONSISTENCY_AUDIT.md",
+    "size_bytes": 2414,
+    "sha256": "7fa998e7881fef7a9a371b9b70bd3926986581c8340de068c62890fd426f9149"
+  },
+  {
+    "path": "docs/citation_metadata/CITATION_DRAFT_pre_doi.cff",
+    "size_bytes": 544,
+    "sha256": "1b4f1d51702d5e7c95c9b70e2517081006d9f256d1b26f465cfe24eeb8e9c56e"
+  },
+  {
+    "path": "figures/stt_result_original_uploaded.png",
+    "size_bytes": 1048821,
+    "sha256": "62877c9e4162776d38a0541ada9c733ff57c30345c3bef7e7cc6cd39ffdf76e9"
+  },
+  {
+    "path": "manuscript/socio_traffic_thermodynamics_2026.pdf",
+    "size_bytes": 1440679,
+    "sha256": "dd148b7094030a652660db8094660039e4d5dd7915092cb1e06954a82a74cf43"
+  },
+  {
+    "path": "requirements.txt",
+    "size_bytes": 28,
+    "sha256": "7ce1d52cb0e7309fa50fdf82f058db2c2d7bc7537efceb8949b94762411191a4"
+  },
+  {
+    "path": "results/stt_result_original_uploaded.png",
+    "size_bytes": 1048821,
+    "sha256": "62877c9e4162776d38a0541ada9c733ff57c30345c3bef7e7cc6cd39ffdf76e9"
+  },
+  {
+    "path": "scripts/__pycache__/stt_ring_original_uploaded.cpython-313.pyc",
+    "size_bytes": 3016,
+    "sha256": "d24ab14075efbf2947acfa2564f5b4738f9d72d3ac09386fb8fd38772310616d"
+  },
+  {
+    "path": "scripts/__pycache__/stt_ring_reproducible.cpython-313.pyc",
+    "size_bytes": 6815,
+    "sha256": "31c982c51f27a466036722abafa117c04f97c6ede6e8612161696689a5a52866"
+  },
+  {
+    "path": "scripts/stt_ring_original_uploaded.py",
+    "size_bytes": 3206,
+    "sha256": "6ef2c19741b52bc18a2c3e5a3d7285448d1e751f90cf0a751e5d39ab61f936cc"
+  },
+  {
+    "path": "scripts/stt_ring_reproducible.py",
+    "size_bytes": 4302,
+    "sha256": "36109d523d0a217d7e8b43ea30060e04edf3965ad08064723138ddc5cd5cdf0c"
+  },
+  {
+    "path": "tools/verify_manifest.py",
+    "size_bytes": 2005,
+    "sha256": "def0311bafee998bbee518e097c5caf611b56c0301b98c5474e525dea7fd757c"
+  }
+]
