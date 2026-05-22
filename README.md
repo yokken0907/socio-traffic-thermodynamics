@@ -72,3 +72,7 @@ Draft citation metadata is preserved at:
 `docs/citation_metadata/CITATION_DRAFT_pre_doi.cff`
 
 After Zenodo DOI assignment, DOI metadata should be added to README, manuscript metadata, and citation files in a follow-up DOI-metadata release.
+
+## Support
+
+This project is independently developed without institutional sponsorship. Optional support for maintenance and documentation is described in [SUPPORT.md](SUPPORT.md).
