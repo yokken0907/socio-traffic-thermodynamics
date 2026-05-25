@@ -1,43 +1,63 @@
 [
   {
+    "path": ".github/FUNDING.yml",
+    "size_bytes": 18,
+    "sha256": "3ae558473afd80b3114bb87ee3a79c51b0c2a0a363701a9d94b2feb5123b9197"
+  },
+  {
     "path": ".gitignore",
     "size_bytes": 222,
     "sha256": "0f2d37d862a94852792e07a21da10ac2ff58df18df6c7a9167bb1cf1b59af62a"
   },
   {
+    "path": ".zenodo.json",
+    "size_bytes": 1532,
+    "sha256": "ba26e957cf332f07b3670a6d4b551768326fbf6caf66eedb21baaea712e450f6"
+  },
+  {
     "path": "AI_ASSISTANCE_DISCLOSURE.md",
-    "size_bytes": 557,
-    "sha256": "c6b59e64b18643474c783951f9e2c65dc911f1886a25b0f02947df0c270d9f89"
+    "size_bytes": 679,
+    "sha256": "bd2aff407785a7052039b87d9455009b548143a34bd3a6730e23e2a43042c552"
+  },
+  {
+    "path": "CITATION.cff",
+    "size_bytes": 1907,
+    "sha256": "5b34937de4f999f9e67c92c97936515a677f49ed3bf0a36f7e88b708f7c49514"
   },
   {
     "path": "CLAIM_BOUNDARY.md",
-    "size_bytes": 1115,
-    "sha256": "3115362b57704d0b62969f612bf5a2180d148f17f8d7a1f93bdb5d8ee668887f"
+    "size_bytes": 1878,
+    "sha256": "85104c0bd8735715f674baefcb835643232bb6c8cb616a03e1574234f76bd70a"
   },
   {
     "path": "LICENSE",
-    "size_bytes": 894,
-    "sha256": "7e5f0b625fd3ab556fd5f7f579f9083ac852dbf1f5fc10e471a7ebe86af19cab"
+    "size_bytes": 976,
+    "sha256": "f37e4d1c1e0db059c41fcd3f1ab250ba21a7ac5f03fe7b2439733e943016af3b"
   },
   {
     "path": "LICENSE_EVALUATION_ONLY.txt",
-    "size_bytes": 894,
-    "sha256": "7e5f0b625fd3ab556fd5f7f579f9083ac852dbf1f5fc10e471a7ebe86af19cab"
+    "size_bytes": 976,
+    "sha256": "f37e4d1c1e0db059c41fcd3f1ab250ba21a7ac5f03fe7b2439733e943016af3b"
   },
   {
     "path": "README.md",
-    "size_bytes": 3373,
-    "sha256": "c0d3f1332a424aa46b72bcaacecfbfd72e3e6fbe0ee700fe37c4e5fdae44e467"
+    "size_bytes": 5889,
+    "sha256": "aef4734a3bbedd77bcabc8db59a8205042f0ce66f8d4a48796034ecaba02640b"
   },
   {
     "path": "README_ja.md",
-    "size_bytes": 2838,
-    "sha256": "8fee5301a04f8ff922af85820e21bb0c63b1fbceb730475aa912cde1251ede1a"
+    "size_bytes": 6469,
+    "sha256": "41ef5758397ff56e4f9ac4b1d45855d49412282a77218e5cd38da9f561f06512"
   },
   {
     "path": "RELEASE_NOTES_v0.1.1_zenodo_safe_public_gate.md",
     "size_bytes": 2018,
     "sha256": "c1aa973b040dc970b0c4ac98fe33000a4cd00e3ccc6cc9c74aa882b037f9d460"
+  },
+  {
+    "path": "SUPPORT.md",
+    "size_bytes": 903,
+    "sha256": "7ed7558ed06ce02c57793fc4f3c78433de2a096a21692ced4da10074cc334207"
   },
   {
     "path": "docs/JXIV_METADATA_PENDING.md",
@@ -55,14 +75,154 @@
     "sha256": "1b4f1d51702d5e7c95c9b70e2517081006d9f256d1b26f465cfe24eeb8e9c56e"
   },
   {
+    "path": "docs/jxiv/JXIV_METADATA_DRAFT_v0_3_0.md",
+    "size_bytes": 3752,
+    "sha256": "fde52eb26c80379d85cf4e2d037addc20312a65d209c91ebad5776b071d678dc"
+  },
+  {
+    "path": "docs/license/README_LICENSE_REFERENCE.md",
+    "size_bytes": 508,
+    "sha256": "3d0ef91592efbec73b04c06a4ff8ab6b3df2749201127307564ab82ab9efcd3a"
+  },
+  {
+    "path": "docs/release/RELEASE_DATA_v0_3_0.md",
+    "size_bytes": 1413,
+    "sha256": "e497a1fc1acd1e241c7a112f338d499c1cefd279cb779c1f5f1b6cd5797b1628"
+  },
+  {
+    "path": "docs/release/RELEASE_DATA_v0_3_0_source_license_checked.md",
+    "size_bytes": 1559,
+    "sha256": "f715c49a901fcd38354e7d5aa4127afce55bec450f42e74c289d44c1eaf52c74"
+  },
+  {
+    "path": "docs/release/REPOSITORY_REGISTRATION_DATA_v0_3_0_source_license_checked.md",
+    "size_bytes": 737,
+    "sha256": "a20ed7a220bf3001fa3c3e344cf2b9836503b73f73e863dbec82813ff032773a"
+  },
+  {
+    "path": "docs/release/ZENODO_GITHUB_REGISTRATION_NOTES_v0_3_0_source_license_checked.md",
+    "size_bytes": 732,
+    "sha256": "bf5934b8ec64f473f7b70ec676c9054e580b13a61cc3b2c32d6f09e4b2509b54"
+  },
+  {
+    "path": "docs/technical_visual_orientation/README_TECHNICAL_VISUAL_ORIENTATION.md",
+    "size_bytes": 1425,
+    "sha256": "c72dbe31ae5f34ad4cbb9b034d1b3fd3ca0bcfdac75b1227f3eee339637c00ef"
+  },
+  {
+    "path": "docs/technical_visual_orientation/TECHNICAL_VISUAL_ORIENTATION_SCOPE.md",
+    "size_bytes": 1549,
+    "sha256": "8937e11963fd24ae3ec566328fe30a13d34987cb2299fbd38f36309ee857be3b"
+  },
+  {
+    "path": "docs/technical_visual_orientation/index.html",
+    "size_bytes": 26818,
+    "sha256": "d2afab3493726e3a5ea876c8f72fa05f17585a4fb13d20af9caf787bfd866b46"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/STT_v030_addendum_outline.md",
+    "size_bytes": 1660,
+    "sha256": "0ce213d2c23a19cac4dc0df1d53cf0dd0a451ef1f0907480d32e33c2fba78da8"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/STT_v030_claim_lock.json",
+    "size_bytes": 1085,
+    "sha256": "28a2e7fd7c5bf4cb7f0b921cf034764df3e1ff9b21b34be7beb2b6fe7549ac23"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/STT_v030_next_steps.md",
+    "size_bytes": 873,
+    "sha256": "a7bfa9bcf2ea1ab8818bc2a158a912ca49cbca1ee2fca92c1215e9df977f36fd"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/STT_v030_output_manifest.csv",
+    "size_bytes": 628,
+    "sha256": "d1c126d9f6024bc8dd37c381cbc24f5c5dbce3f2a725e37ddbab2088d9b4b3c0"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/STT_v030_phase_ledger.csv",
+    "size_bytes": 15874,
+    "sha256": "50dee181282a49f65eb938c4212f86db2e23a6745fdb262aa2234aef320c0c84"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/STT_v030_synthesis_report.md",
+    "size_bytes": 2906,
+    "sha256": "c9e3257d9f6bd54f54df3641db8eb41124815672ae2b44372fe28c11e214f96f"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/selected_figures/stt_v029_budget_value_curve.png",
+    "size_bytes": 47493,
+    "sha256": "584a1d33f0ade6e09163817a8fcb37366b5cea2a751029a3cbafe8800b3f3188"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/selected_figures/stt_v029_holdout_frontier.png",
+    "size_bytes": 62176,
+    "sha256": "65546477b3fc5dffcdfc7664e3886724b94d5e63bfecbc40bcaf67fae593bc15"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/selected_tables/stt_v029_budget_pass_rates.csv",
+    "size_bytes": 1598,
+    "sha256": "32a11be826362287f465057dde0472c84a3d9a7965c0e64e3605617548130a72"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/selected_tables/stt_v029_generalization_matrix.csv",
+    "size_bytes": 2253,
+    "sha256": "c77ff534b78a4cec9c9b7152a6cafea66a0aca2bae07eadfc1a523573c1016cc"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/selected_tables/stt_v029_near_critical_holdout_slice.csv",
+    "size_bytes": 94912,
+    "sha256": "025155202150b9c2b1c39573839cc7b21a05951c26be2c522ed8d0de17092659"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/selected_tables/stt_v029_policy_holdout_rollup.csv",
+    "size_bytes": 3666,
+    "sha256": "9d81b6f26ba992fd401b6cc01d770d61c8c8fa3a16d8ef0d1ecd26fcb43930de"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/selected_tables/stt_v029_summary.json",
+    "size_bytes": 2168,
+    "sha256": "86860cff4332b7bc9560235b3d0c1105ffed2aaac5a49c390cfacce30d545b06"
+  },
+  {
+    "path": "evidence/v030_synthesis_outputs/selected_tables/stt_v030_best_candidate_by_condition.csv",
+    "size_bytes": 10325,
+    "sha256": "c613cbe543333e7efafe5613aae9723904aefa50770655818b5ddb7f2ea0645d"
+  },
+  {
     "path": "figures/stt_result_original_uploaded.png",
     "size_bytes": 1048821,
     "sha256": "62877c9e4162776d38a0541ada9c733ff57c30345c3bef7e7cc6cd39ffdf76e9"
   },
   {
-    "path": "manuscript/socio_traffic_thermodynamics_2026.pdf",
-    "size_bytes": 1440679,
-    "sha256": "dd148b7094030a652660db8094660039e4d5dd7915092cb1e06954a82a74cf43"
+    "path": "paper/STT_risk_budgeted_information_release_addendum_v0_3_0.pdf",
+    "size_bytes": 286877,
+    "sha256": "80b39cfd7f05a6fa87677e0ebe26f7c30ae52de9561397c552e50f740f975ac3"
+  },
+  {
+    "path": "paper/STT_risk_budgeted_information_release_addendum_v0_3_0.tex",
+    "size_bytes": 14491,
+    "sha256": "3c2067cc598ef14127fc91ca02d1df0581364f8b6a8b971379a48238cedb51e2"
+  },
+  {
+    "path": "paper/figures/stt_v029_budget_value_curve.png",
+    "size_bytes": 47493,
+    "sha256": "584a1d33f0ade6e09163817a8fcb37366b5cea2a751029a3cbafe8800b3f3188"
+  },
+  {
+    "path": "paper/figures/stt_v029_holdout_frontier.png",
+    "size_bytes": 62176,
+    "sha256": "65546477b3fc5dffcdfc7664e3886724b94d5e63bfecbc40bcaf67fae593bc15"
+  },
+  {
+    "path": "paper/socio_traffic_thermodynamics_2026.pdf",
+    "size_bytes": 1467745,
+    "sha256": "384fde8d8e973cd3b063479cf66ad438eec6cfe1d85812bfb7d600efe777a4e7"
+  },
+  {
+    "path": "paper/socio_traffic_thermodynamics_2026.tex",
+    "size_bytes": 18350,
+    "sha256": "bdc647f8de56de720f9cb190f41c67c7122e366a780d844d40d2eb5bd404eeee"
   },
   {
     "path": "requirements.txt",
@@ -73,16 +233,6 @@
     "path": "results/stt_result_original_uploaded.png",
     "size_bytes": 1048821,
     "sha256": "62877c9e4162776d38a0541ada9c733ff57c30345c3bef7e7cc6cd39ffdf76e9"
-  },
-  {
-    "path": "scripts/__pycache__/stt_ring_original_uploaded.cpython-313.pyc",
-    "size_bytes": 3016,
-    "sha256": "d24ab14075efbf2947acfa2564f5b4738f9d72d3ac09386fb8fd38772310616d"
-  },
-  {
-    "path": "scripts/__pycache__/stt_ring_reproducible.cpython-313.pyc",
-    "size_bytes": 6815,
-    "sha256": "31c982c51f27a466036722abafa117c04f97c6ede6e8612161696689a5a52866"
   },
   {
     "path": "scripts/stt_ring_original_uploaded.py",

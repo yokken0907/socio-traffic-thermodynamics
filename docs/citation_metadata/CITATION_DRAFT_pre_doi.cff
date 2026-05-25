@@ -1,0 +1,11 @@
+cff-version: "1.2.0"
+message: "If you use this repository, please cite the associated manuscript and repository archive."
+authors:
+  - family-names: "Yoshimura"
+    given-names: "Keiji"
+    affiliation: "Independent Researcher"
+title: "Socio-Traffic Thermodynamics: Congestion as a Non-Equilibrium Dissipative Structure Driven by Social Potential"
+version: "0.1.1-zenodo-safe-public-gate"
+date-released: "2026-05-15"
+repository-code: "https://github.com/yokken0907/socio-traffic-thermodynamics"
+# doi: "to be added after Zenodo DOI assignment"

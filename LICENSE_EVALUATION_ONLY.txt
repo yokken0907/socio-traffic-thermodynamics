@@ -15,5 +15,6 @@ validated transportation-engineering product without a separate written agreemen
 from the author.
 
 The materials are provided AS IS, without warranty of any kind. The author makes
-no claim that this reduced stochastic ring-road surrogate is calibrated to any
+no claim that this reduced stochastic ring-road surrogate, finite-capacity toy
+network audit, or risk-budgeted information-release addendum is calibrated to any
 real road network, driver population, traffic-control system, or policy setting.

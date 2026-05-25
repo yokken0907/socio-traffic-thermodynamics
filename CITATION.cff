@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the associated manuscript, the v0.3.0 synthesis addendum, and the repository archive. License terms are defined in the root LICENSE / LICENSE_EVALUATION_ONLY.txt files. Zenodo identifiers for this repository are repository-archive DOIs, not standalone peer-reviewed article DOIs."
+type: software
+title: "Socio-Traffic Thermodynamics: Risk-Budgeted Information Release Synthesis Addendum"
+authors:
+  - family-names: "Yoshimura"
+    given-names: "Keiji"
+    affiliation: "Independent Researcher"
+version: "v0.3.0-synthesis-addendum"
+date-released: "2026-05-25"
+url: "https://github.com/yokken0907/socio-traffic-thermodynamics"
+repository-code: "https://github.com/yokken0907/socio-traffic-thermodynamics"
+abstract: "Claim-bounded repository package for Socio-Traffic Thermodynamics, including the original reduced stochastic ring-road surrogate and a v0.3.0 synthesis addendum on risk-budgeted information release in finite-capacity toy traffic networks. The package does not claim real-world traffic prediction, traffic-policy validation, deployment readiness, or a universal congestion solution. License terms are given in the root LICENSE files rather than in a standard Creative Commons license field."
+keywords:
+  - Socio-Traffic Thermodynamics
+  - traffic congestion
+  - information release
+  - finite-capacity networks
+  - synchronization risk
+  - risk budget
+  - toy model
+  - claim boundary
+references:
+  - type: article
+    title: "Dynamical model of traffic congestion and numerical simulation"
+    doi: "10.1103/PhysRevE.51.1035"
+  - type: article
+    title: "Traffic jams without bottlenecks - experimental evidence for the physical mechanism of the formation of a jam"
+    doi: "10.1088/1367-2630/10/3/033001"
+  - type: article
+    title: "Traffic and related self-driven many-particle systems"
+    doi: "10.1103/RevModPhys.73.1067"
