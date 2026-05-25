@@ -1,0 +1,65 @@
+{
+  "status": "PASS-STT-V029-RUN-COMPLETE",
+  "claim_boundary": "toy frozen-policy holdout diagnostics only",
+  "seed_count": 3,
+  "policy_count": 14,
+  "raw_rows": 1134,
+  "condition_summary_rows": 378,
+  "holdout_scenario_count": 27,
+  "lowest_mean_cost_policy": "budget_common_u0.055_s0.00",
+  "lowest_mean_cost_family": "budget_common",
+  "noinfo_mean_cost": 1.758804278359344,
+  "best_policy_mean_cost": 1.7343724682783204,
+  "best_policy_mean_cost_improvement_vs_noinfo": 0.024431810081023686,
+  "zero_budget_positive_improvement_fraction": 1.0,
+  "max_budget_positive_improvement_fraction": 1.0,
+  "budget_level_summary": [
+    {
+      "severity_budget_epsilon": 0.0,
+      "mean_cost_improvement_vs_noinfo": 0.02481726885251462,
+      "positive_improvement_fraction": 1.0
+    },
+    {
+      "severity_budget_epsilon": 0.001,
+      "mean_cost_improvement_vs_noinfo": 0.02481726885251462,
+      "positive_improvement_fraction": 1.0
+    },
+    {
+      "severity_budget_epsilon": 0.0025,
+      "mean_cost_improvement_vs_noinfo": 0.02481726885251462,
+      "positive_improvement_fraction": 1.0
+    },
+    {
+      "severity_budget_epsilon": 0.005,
+      "mean_cost_improvement_vs_noinfo": 0.02481726885251462,
+      "positive_improvement_fraction": 1.0
+    },
+    {
+      "severity_budget_epsilon": 0.01,
+      "mean_cost_improvement_vs_noinfo": 0.02481726885251462,
+      "positive_improvement_fraction": 1.0
+    },
+    {
+      "severity_budget_epsilon": 0.02,
+      "mean_cost_improvement_vs_noinfo": 0.02481726885251462,
+      "positive_improvement_fraction": 1.0
+    },
+    {
+      "severity_budget_epsilon": 0.05,
+      "mean_cost_improvement_vs_noinfo": 0.02481726885251462,
+      "positive_improvement_fraction": 1.0
+    }
+  ],
+  "outputs": [
+    "stt_v029_raw.csv",
+    "stt_v029_condition_summary_with_noinfo_deltas.csv",
+    "stt_v029_policy_holdout_rollup.csv",
+    "stt_v029_family_holdout_rollup.csv",
+    "stt_v029_budget_holdout_winners.csv",
+    "stt_v029_budget_pass_rates.csv",
+    "stt_v029_generalization_matrix.csv",
+    "stt_v029_near_critical_holdout_slice.csv",
+    "stt_v029_holdout_frontier.png",
+    "stt_v029_budget_value_curve.png"
+  ]
+}

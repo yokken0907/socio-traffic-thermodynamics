@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the associated manuscript and repository archive. License terms are defined in the root LICENSE / LICENSE_EVALUATION_ONLY.txt files."
+type: software
+title: "Socio-Traffic Thermodynamics: Integrated Model and Risk-Budgeted Information-Release Audit Synthesis"
+authors:
+  - family-names: "Yoshimura"
+    given-names: "Keiji"
+    affiliation: "Independent Researcher"
+version: "v0.3.1-integrated-revision-source-license-checked"
+date-released: "2026-05-25"
+url: "https://github.com/yokken0907/socio-traffic-thermodynamics"
+repository-code: "https://github.com/yokken0907/socio-traffic-thermodynamics"
+abstract: "Claim-bounded repository package for Socio-Traffic Thermodynamics, integrating the original reduced stochastic ring-road surrogate with a risk-budgeted information-release audit sequence in finite-capacity toy traffic networks. The package does not claim real-world traffic prediction, traffic-policy validation, deployment readiness, or a universal congestion solution. License terms are given in the root LICENSE files."
+keywords:
+  - Socio-Traffic Thermodynamics
+  - traffic congestion
+  - finite-capacity networks
+  - synchronization risk
+  - information release
+  - risk budget
+  - toy model
+  - claim boundary
