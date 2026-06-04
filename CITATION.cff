@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the associated manuscript and repository archive. License terms are defined in the root LICENSE / LICENSE_EVALUATION_ONLY.txt files."
+type: software
+title: "Socio-Traffic Thermodynamics: Public Landing and Metadata Refresh"
+authors:
+  - family-names: "Yoshimura"
+    given-names: "Keiji"
+    affiliation: "Independent Researcher"
+version: "v0.3.2-public-landing-and-metadata-refresh"
+date-released: "2026-06-04"
+url: "https://github.com/yokken0907/socio-traffic-thermodynamics"
+repository-code: "https://github.com/yokken0907/socio-traffic-thermodynamics"
+abstract: "Claim-bounded repository package for Socio-Traffic Thermodynamics. This v0.3.2 refresh reorganizes the public landing page, GitHub Pages entry point, discovery metadata, manifest, and claim-boundary placement while preserving the v0.3.1 integrated manuscript as the scientific content baseline. The repository does not claim real-world traffic prediction, traffic-policy validation, deployment readiness, information-control policy, or a universal congestion solution."
+keywords:
+  - Socio-Traffic Thermodynamics
+  - traffic congestion
+  - stop-and-go waves
+  - finite-capacity networks
+  - synchronization risk
+  - information release
+  - risk budget
+  - toy model
+  - claim boundary

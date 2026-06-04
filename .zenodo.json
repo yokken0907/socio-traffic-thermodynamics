@@ -1,0 +1,25 @@
+{
+  "title": "Socio-Traffic Thermodynamics: Public Landing and Metadata Refresh",
+  "upload_type": "software",
+  "description": "Claim-bounded reduced-surrogate archive for Socio-Traffic Thermodynamics. This v0.3.2 refresh reorganizes the public repository landing page, GitHub Pages entry point, claim-boundary metadata, and search/discovery files while preserving the v0.3.1 integrated manuscript as the scientific content baseline. It does not claim real-world traffic prediction, traffic-policy validation, deployment-ready route guidance, or a universal congestion solution.",
+  "creators": [
+    {
+      "name": "Yoshimura, Keiji",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "license": "other-open",
+  "keywords": [
+    "traffic-flow",
+    "traffic-congestion",
+    "toy-model",
+    "synchronization-risk",
+    "finite-capacity-networks",
+    "information-release",
+    "risk-budget",
+    "claim-boundary"
+  ],
+  "version": "v0.3.2-public-landing-and-metadata-refresh",
+  "publication_date": "2026-06-04",
+  "notes": "License terms are source-defined in LICENSE and LICENSE_EVALUATION_ONLY.txt. No DOI is specified in this metadata; allow Zenodo to assign archive identifiers from GitHub releases."
+}
